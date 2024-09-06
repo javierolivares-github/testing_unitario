@@ -1,0 +1,103 @@
+2024-08-30 11:03:30 info: Mongo DB Conectado
+2024-08-30 11:03:30 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:37:56 info: Mongo DB Conectado
+2024-09-06 10:37:56 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:39:19 info: Mongo DB Conectado
+2024-09-06 10:39:19 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:39:35 info: Mongo DB Conectado
+2024-09-06 10:39:35 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:41:16 info: Mongo DB Conectado
+2024-09-06 10:41:16 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:41:23 info: Mongo DB Conectado
+2024-09-06 10:41:23 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:41:58 info: Mongo DB Conectado
+2024-09-06 10:41:58 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:42:07 info: Mongo DB Conectado
+2024-09-06 10:42:07 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:42:15 info: Mongo DB Conectado
+2024-09-06 10:42:15 info: Escuchando el servidor en el puerto 8081
+2024-09-06 10:42:22 info: Mongo DB Conectado
+2024-09-06 10:42:22 info: Escuchando el servidor en el puerto 8081
+2024-09-06 11:55:32 info: Mongo DB Conectado
+2024-09-06 11:55:32 info: Escuchando el servidor en el puerto 8081
+2024-09-06 11:57:06 error: _id - Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "products"
+2024-09-06 12:00:16 info: Mongo DB Conectado
+2024-09-06 12:00:16 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:11:38 info: Mongo DB Conectado
+2024-09-06 12:11:38 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:14:31 info: Mongo DB Conectado
+2024-09-06 12:14:31 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:46:44 info: Mongo DB Conectado
+2024-09-06 12:46:44 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:47:27 info: Mongo DB Conectado
+2024-09-06 12:47:27 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:50:56 info: Mongo DB Conectado
+2024-09-06 12:50:56 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:55:37 info: Mongo DB Conectado
+2024-09-06 12:55:37 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:55:48 info: Mongo DB Conectado
+2024-09-06 12:55:48 info: Escuchando el servidor en el puerto 8081
+2024-09-06 12:55:57 info: Mongo DB Conectado
+2024-09-06 12:55:57 info: Escuchando el servidor en el puerto 8081
+2024-09-06 13:20:20 info: Mongo DB Conectado
+2024-09-06 13:20:20 info: Escuchando el servidor en el puerto 8081
+2024-09-06 13:20:49 info: Mongo DB Conectado
+2024-09-06 13:20:49 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:05:51 info: Mongo DB Conectado
+2024-09-06 16:05:51 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:07:58 info: Mongo DB Conectado
+2024-09-06 16:07:58 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:10:14 info: Mongo DB Conectado
+2024-09-06 16:10:14 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:11:42 info: Mongo DB Conectado
+2024-09-06 16:11:42 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:13:30 info: Mongo DB Conectado
+2024-09-06 16:13:30 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:16:05 info: Mongo DB Conectado
+2024-09-06 16:16:05 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:16:43 info: Mongo DB Conectado
+2024-09-06 16:16:43 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:17:33 info: Mongo DB Conectado
+2024-09-06 16:17:33 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:18:17 info: Mongo DB Conectado
+2024-09-06 16:18:17 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:19:03 info: Mongo DB Conectado
+2024-09-06 16:19:03 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:19:12 info: Mongo DB Conectado
+2024-09-06 16:19:12 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:20:10 info: Mongo DB Conectado
+2024-09-06 16:20:10 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:20:23 info: Mongo DB Conectado
+2024-09-06 16:20:23 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:21:01 info: Mongo DB Conectado
+2024-09-06 16:21:02 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:21:14 info: Mongo DB Conectado
+2024-09-06 16:21:14 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:22:08 info: Mongo DB Conectado
+2024-09-06 16:22:08 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:22:29 info: Mongo DB Conectado
+2024-09-06 16:22:29 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:23:12 info: Mongo DB Conectado
+2024-09-06 16:23:12 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:24:40 info: Mongo DB Conectado
+2024-09-06 16:24:40 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:25:21 info: Mongo DB Conectado
+2024-09-06 16:25:21 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:26:18 info: Mongo DB Conectado
+2024-09-06 16:26:18 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:27:02 info: Mongo DB Conectado
+2024-09-06 16:27:02 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:27:59 info: Mongo DB Conectado
+2024-09-06 16:27:59 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:31:23 info: Mongo DB Conectado
+2024-09-06 16:31:23 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:31:35 info: Mongo DB Conectado
+2024-09-06 16:31:35 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:32:31 info: Mongo DB Conectado
+2024-09-06 16:32:31 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:32:42 info: Mongo DB Conectado
+2024-09-06 16:32:42 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:34:02 info: Mongo DB Conectado
+2024-09-06 16:34:02 info: Escuchando el servidor en el puerto 8081
+2024-09-06 16:34:32 info: Mongo DB Conectado
+2024-09-06 16:34:32 info: Escuchando el servidor en el puerto 8081
